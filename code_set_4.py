@@ -6,4 +6,4 @@ def calc(a, b):
 
 
 x = [1, 2, -3]
-print(calc(True , x[2]))
+print(calc(True, x[2]))
