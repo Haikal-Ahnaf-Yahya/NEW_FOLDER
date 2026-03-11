@@ -1,5 +1,5 @@
 def calc(a, b):
-    if a==True:
+    if a is True:
         if b>0:
             return b*b
     return 0
